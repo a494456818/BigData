@@ -1,15 +1,15 @@
 这里安装的是centOS 6.4
 
 1、在VMware中点击“创建新的虚拟机”
- ![图片1]（https://raw.githubusercontent.com/a494456818/BigData/master/img/linux/1.png）
+ ![图片1]（https://github.com/a494456818/BigData/raw/master/img/linux/1.png）
 2、选取ISO
- ![图片2]（https://raw.githubusercontent.com/a494456818/BigData/master/img/linux/2.png）
- ![图片3]（https://raw.githubusercontent.com/a494456818/BigData/master/img/linux/3.png）
- ![图片4]（https://raw.githubusercontent.com/a494456818/BigData/master/img/linux/4.png）
+ ![图片2]（https://github.com/a494456818/BigData/raw/master/img/linux/2.png）
+ ![图片3]（https://github.com/a494456818/BigData/raw/master/img/linux/3.png）
+ ![图片4]（https://github.com/a494456818/BigData/raw/master/img/linux/4.png）
 3、
- ![图片5]（https://raw.githubusercontent.com/a494456818/BigData/master/img/linux/5.png）
+ ![图片5]（https://github.com/a494456818/BigData/raw/master/img/linux/5.png）
 4、
- ![图片6]（https://raw.githubusercontent.com/a494456818/BigData/master/img/linux/6.png）
+ ![图片6]（https://github.com/a494456818/BigData/raw/master/img/linux/6.png）
 5、可以更改自定义硬件，将网络适配器更改为桥接模式
- ![图片7]（https://raw.githubusercontent.com/a494456818/BigData/master/img/linux/7.png）
- ![图片8]（https://raw.githubusercontent.com/a494456818/BigData/master/img/linux/8.png）
+ ![图片7]（https://github.com/a494456818/BigData/raw/master/img/linux/7.png）
+ ![图片8]（https://github.com/a494456818/BigData/raw/master/img/linux/8.png）
