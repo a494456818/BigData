@@ -8,6 +8,6 @@
 2.
 rm -rf 　/etc/udev/rules.d/70-persistent-net.rules
 或者修改这个文件
-将其中的eth1的物理地址复制给eth0，然后删掉eth1的配置
+将其中的eth1的物理地址[ATTR（address）]复制给eth0，然后删掉eth1的配置
 3.
 reboot
