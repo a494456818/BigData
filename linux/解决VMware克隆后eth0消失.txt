@@ -1,0 +1,13 @@
+当使用VMWare克隆后，由于克隆后的主机和本体主机的网络设置是相同的，出现IP占用情况，所欲克隆后的主机会使用eth1作为网络，
+那么如何将克隆机的网络改回eth0呢？
+
+1.
+直接修改  /etc/sysconfig/network-script/ifcfg-eth0
+删掉UUID  HWADDR
+配置静态地址
+2.
+rm -rf 　/etc/udev/rules.d/70-persistent-net.rules
+或者修改这个文件
+将其中的eth1的物理地址复制给eth0，然后删掉eth1的配置
+3.
+reboot
