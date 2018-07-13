@@ -1,4 +1,4 @@
-说明：安装linux时，创建一个xhx用户，然后使用root用户登陆系统
+﻿说明：安装linux时，创建一个xhx用户，然后使用root用户登陆系统
 
 1.进入到用户根目录
 cd ~ 或 cd
@@ -79,5 +79,5 @@ wc -l README
 将/xhx目录先打包，同时用bzip2压缩，并保存到/tmp目录下
 tar -jcvf /tmp/xhx.tar.bz2 xhx
 
-将/tmp/xhx.tar.bz2解压到/usr目录下面
+将/tmp/xhx.tar.bz2解压到/usr目录下
 tar -jxvf xhx.tar.bz2 -C /usr/
